@@ -3,5 +3,21 @@ body {
 }
 
 input {
+  width:100%;
   margin: 5px;
+}
+textarea{
+  width: 100%;
+}
+
+/* --- Groups & Items --- */
+
+.group {
+  display: flex;
+  flex-direction: column; /* or column */
+  margin-bottom: 100px;
+}
+.item {
+  flex: 1;
+  margin: 10px;
 }

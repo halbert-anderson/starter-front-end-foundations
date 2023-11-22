@@ -19,7 +19,9 @@ h3 {
   margin: 12px 0;
   border-bottom: 1px solid lightgray;
 }
-
+img{
+  width: 100%;
+}
 /* Groups & Items */
 
 .group {
